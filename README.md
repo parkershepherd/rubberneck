@@ -1,8 +1,6 @@
 # Rubberneck - a stat watcher for the rate limiting library Bottleneck
 
-## Usage
-
-### Rubberneck.getStats()
+## Rubberneck.getStats()
 ```javascript
 
 // Setup
@@ -40,7 +38,7 @@ Rubberneck.stop()
 ```
 
 
-### Rubberneck.getProgress()
+## Rubberneck.getProgress()
 ```javascript
 
 // Setup
@@ -70,7 +68,7 @@ Rubberneck.stop()
 
 
 
-### Multiple Bottlenecks
+## Multiple Bottlenecks
 ```javascript
 
 // Setup
@@ -130,7 +128,7 @@ Rubberneck.stop()
 ```
 
 
-### Progress bar
+## Progress bar
 ```javascript
 
 // Setup
