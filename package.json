@@ -1,0 +1,18 @@
+{
+  "name": "rubberneck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified, but you can run examples in the ./examples folder\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bottleneck": "^2.19.5",
+    "cli-progress": "^3.8.2"
+  },
+  "bundleDependencies": false,
+  "dependencies": {}
+}
