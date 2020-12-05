@@ -1,13 +1,27 @@
 {
   "name": "rubberneck",
   "version": "1.0.0",
-  "description": "",
+  "description": "a stat watcher for the rate limiting library Bottleneck",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified, but you can run examples in the ./examples folder\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "bottleneck",
+    "rate limiter",
+    "progress",
+    "bottleneck stats",
+    "bottleneck progress"
+  ],
+  "author": {
+    "name": "Parker Shepherd",
+    "email": "me@parkershepherd.com"
+  },
+  "homepagae": "https://github.com/parkershepherd/rubberneck#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parkershepherd/rubberneck.git"
+  },
   "license": "ISC",
   "devDependencies": {
     "bottleneck": "^2.19.5",
